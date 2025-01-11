@@ -1,6 +1,6 @@
- AI Agent PWA
+AI Agent
 
-This is a Progressive Web App (PWA) that acts as an AI agent, allowing users to interact via chat and voice.
+A Progressive Web App (PWA) that acts as an AI agent, allowing users to interact via chat and voice.
 
 Features
 
