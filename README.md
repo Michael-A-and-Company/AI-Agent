@@ -1,4 +1,4 @@
-AI Agent
+AI Ægent
 
 A Progressive Web App (PWA). 
 
