@@ -1,5 +1,5 @@
 {
-  "name": "Æpwa Agent Backend",
+  "name": "weae Backend",
   "version": "1.0.0",
   "description": "Manages dependencies and scripts the projects",
   "main": "app.js",
