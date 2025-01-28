@@ -1,10 +1,10 @@
 {
-  "short_name": "AI Ægent",
-  "name": "AI Ægent PWA",
-  "description": "A conversational AI agent",
+  "short_name": "MÆc Ægent",
+  "name": "wEae",
+  "description": "A decentrialized financial AI agent",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#ffffff",
+  "background_color": "#F0F0F0",
   "theme_color": "#000000",
   "icons": [
     {
