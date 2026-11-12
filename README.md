@@ -1,6 +1,6 @@
 # Reference Client Agent
 
-An open-source reference implementation for partners, developers, and external systems seeking to interact with **Michael A & Company’s** core API gateway (`https://api.michaela.company/v1`) and open training corpora.
+An open-source reference implementation for partners, developers, and external systems seeking to interact with **Michael A & Company’s** core API gateway (`https://84.michaela.company/v1`).
 
 This client serves as a working blueprint for interested parties building self-hosted financial agents capable of querying our inference endpoints, operating reliably in disconnected environments, and executing local-first workflows.
 
